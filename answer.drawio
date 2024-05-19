@@ -10,14 +10,14 @@
                 <mxCell id="25" value="委員會成員" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
                     <mxGeometry x="144" y="1169" width="200" height="200" as="geometry"/>
                 </mxCell>
-                <mxCell id="26" value="&lt;font color=&quot;#ffffff&quot;&gt;有姓名和職位&lt;br&gt;&lt;br&gt;&lt;br&gt;編輯和刪除公告&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="25">
+                <mxCell id="26" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;有姓名和職位&lt;br&gt;&lt;br&gt;&lt;br&gt;編輯和刪除公告&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="25">
                     <mxGeometry x="45" y="65" width="110" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="29" value="公告" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
                     <mxGeometry x="560" y="1169" width="200" height="200" as="geometry"/>
                 </mxCell>
-                <mxCell id="30" value="&lt;font color=&quot;#ffffff&quot;&gt;內容和回應列表&lt;br&gt;&lt;br&gt;委員會成員才能&lt;br&gt;創建、編輯和刪除公告&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="29">
-                    <mxGeometry x="30" y="55" width="140" height="90" as="geometry"/>
+                <mxCell id="30" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;內容和回應列表&lt;br&gt;&lt;br&gt;委員會成員才能&lt;br&gt;創建、編輯和刪除公告&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="29">
+                    <mxGeometry x="30" y="65" width="140" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="39" style="edgeStyle=none;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontColor=#FFFFFF;endArrow=classic;endFill=1;" edge="1" parent="1" source="31" target="25">
                     <mxGeometry relative="1" as="geometry"/>
@@ -34,7 +34,7 @@
                 <mxCell id="31" value="社區" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
                     <mxGeometry x="10" y="1480" width="200" height="200" as="geometry"/>
                 </mxCell>
-                <mxCell id="32" value="&lt;font color=&quot;#ffffff&quot;&gt;居民和公告可以接收包裹&lt;br&gt;查看、回應公告&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="31">
+                <mxCell id="32" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;居民和公告可以接收包裹&lt;br&gt;查看、回應公告&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="31">
                     <mxGeometry x="20" y="80" width="160" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="44" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FFFFFF;endArrow=classic;endFill=1;" edge="1" parent="1" source="35" target="37">
@@ -43,13 +43,13 @@
                 <mxCell id="35" value="居民" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
                     <mxGeometry x="198" y="1810" width="200" height="200" as="geometry"/>
                 </mxCell>
-                <mxCell id="36" value="&lt;font color=&quot;#ffffff&quot;&gt;姓名&lt;br&gt;&lt;br&gt;綁定的手機應用列表&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="35">
+                <mxCell id="36" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;姓名&lt;br&gt;&lt;br&gt;綁定的手機應用列表&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="35">
                     <mxGeometry x="35" y="70" width="130" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="37" value="手機應用" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
                     <mxGeometry x="604" y="1810" width="200" height="200" as="geometry"/>
                 </mxCell>
-                <mxCell id="38" value="&lt;font color=&quot;#ffffff&quot;&gt;居民手機上的應用程序&lt;br&gt;&lt;br&gt;與特定居民關聯&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="37">
+                <mxCell id="38" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;居民手機上的應用程序&lt;br&gt;&lt;br&gt;與特定居民關聯&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="37">
                     <mxGeometry x="30" y="70" width="140" height="60" as="geometry"/>
                 </mxCell>
             </root>
@@ -121,13 +121,13 @@
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="L7aGbfTZ0NflE1h0eX6t-18" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;住戶在與警衛確認身分後，綁定手機到APP的過程&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+                <mxCell id="L7aGbfTZ0NflE1h0eX6t-18" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px; background-color: rgb(255, 255, 255);&quot;&gt;住戶在與警衛確認身分後，綁定手機到APP的過程&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
                     <mxGeometry x="153" y="2530" width="290" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="L7aGbfTZ0NflE1h0eX6t-19" value="主任委員或各類主委發布公告的過程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+                <mxCell id="L7aGbfTZ0NflE1h0eX6t-19" value="&lt;font style=&quot;background-color: rgb(255, 255, 255);&quot; color=&quot;#000000&quot;&gt;主任委員或各類主委發布公告的過程&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
                     <mxGeometry x="443" y="2530" width="220" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="L7aGbfTZ0NflE1h0eX6t-20" value="貨運公司送達包裹，&lt;br&gt;警衛簽收並通知住戶的過程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+                <mxCell id="L7aGbfTZ0NflE1h0eX6t-20" value="&lt;font style=&quot;background-color: rgb(255, 255, 255);&quot; color=&quot;#000000&quot;&gt;貨運公司送達包裹，&lt;br&gt;警衛簽收並通知住戶的過程&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
                     <mxGeometry x="650" y="2520" width="170" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="L7aGbfTZ0NflE1h0eX6t-21" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;dashed=1;fontSize=12;fontColor=#000000;endArrow=none;endFill=0;" edge="1" parent="1" source="L7aGbfTZ0NflE1h0eX6t-22" target="L7aGbfTZ0NflE1h0eX6t-25">
@@ -164,7 +164,7 @@
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="U8yNJZOQGhpZeUlVzSLb-1" value="貨運公司送達包裹，&lt;br&gt;警衛簽收並通知住戶的過程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+                <mxCell id="U8yNJZOQGhpZeUlVzSLb-1" value="&lt;font style=&quot;background-color: rgb(255, 255, 255);&quot; color=&quot;#000000&quot;&gt;貨運公司送達包裹，&lt;br&gt;警衛簽收並通知住戶的過程&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
                     <mxGeometry y="2550" width="170" height="40" as="geometry"/>
                 </mxCell>
             </root>
